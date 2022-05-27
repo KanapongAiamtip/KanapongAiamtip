@@ -22,16 +22,9 @@
 
 :heartpulse: Fun fact: ...
 I believe there is only really one way to learn to program: practice.
-<pre>
-  let p = grader.getProblem()
-        do {
-            let solution = student.applyProgrammingSkill(to: p)
-            let result = grader.upload(solution)
-        } while (!result.correct)
-<pre/>
+
 
 ## 📊 Github stats
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -39,7 +32,6 @@ I believe there is only really one way to learn to program: practice.
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KanapongAiamtip Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanapongAiamtip&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
-
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
