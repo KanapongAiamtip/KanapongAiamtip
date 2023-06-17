@@ -1,4 +1,4 @@
-### Hi there I'm Kannapong Aiamtip. NickName `AKA` Soda `AKA` Sea👋
+### Hi there I'm Kannapong Aiamtip. NickName `AKA` Soda `AKA` gemint👋
 
 🌱 I’m currently learning ...
 - Web Development in **Vue**, **TypeScript**
