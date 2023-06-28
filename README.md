@@ -7,7 +7,7 @@
 ## :tulip: project
 🔭 I’m currently working on this, it's a website a web based code problem grader for Java/Kotlin/Python/Swift written in typescript for CSIT Students Naresuan University
 
-<a href="https://github.com/KanapongAiamtip/codee-club">
+<a href="https://github.com/KanapongAiamtip/codee-club.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanapongAiamtip&repo=imsce&theme=white"/>
 </a>
 
