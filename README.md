@@ -5,9 +5,9 @@
 - Mobile Development in **Flutter**, **Java**
 
 ## :tulip: project
-🔭 I’m currently working on this, it's a website like https://www.sci.nu.ac.th/coop
+🔭 I’m currently working on this, it's a website a web based code problem grader for Java/Kotlin/Python/Swift written in typescript for CSIT Students Naresuan University
 
-<a href="https://github.com/KanapongAiamtip/imsce">
+<a href="https://github.com/KanapongAiamtip/codee-club">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanapongAiamtip&repo=imsce&theme=white"/>
 </a>
 
